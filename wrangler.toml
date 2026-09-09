@@ -1,0 +1,11 @@
+name = "escalacao"
+main = "_worker.js"
+compatibility_date = "2026-09-09"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[kv_namespaces]]
+binding = "PLAYERS_KV"
+id = "0ebede703a8c4f80a7da119e35a900c6"
